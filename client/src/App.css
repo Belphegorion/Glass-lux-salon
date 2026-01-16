@@ -1,0 +1,52 @@
+#root {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Performance optimized styles */
+* {
+  box-sizing: border-box;
+}
+
+img {
+  will-change: auto;
+  transform: translateZ(0);
+}
+
+/* Simplified glass effects */
+.glass {
+  backdrop-filter: blur(8px);
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Optimized animations */
+.float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+
+/* Remove heavy effects */
+.sb-particles {
+  display: none;
+}
+
+/* Simplified text shadows */
+.text-shadow {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Performance optimized gradients */
+.bg-gradient-main {
+  background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+}
+
+.card-float {
+  transform: translateZ(0);
+  will-change: transform;
+}

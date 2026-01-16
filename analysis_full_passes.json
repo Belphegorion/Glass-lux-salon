@@ -1,0 +1,688 @@
+{
+  "passes": [
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 1
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 2
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 3
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 4
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 5
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 6
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 7
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 8
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 9
+    },
+    {
+      "tiny_files": [],
+      "placeholders": {
+        "client/src/components/BookingForm.jsx": [
+          "..."
+        ],
+        "client/src/components/Admin.jsx": [
+          "..."
+        ]
+      },
+      "suspicious_imports_or_exports": [
+        {
+          "file": "client/vite.config.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Service.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Stylist.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/Booking.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/models/User.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/services.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/stylists.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/bookings.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/users.js",
+          "note": "export default without function/class/arrow"
+        },
+        {
+          "file": "server/routes/auth.js",
+          "note": "export default without function/class/arrow"
+        }
+      ],
+      "serves_static_and_admin": true,
+      "package_scripts": {
+        "client/package.json": [
+          "dev",
+          "build",
+          "preview",
+          "e2e"
+        ],
+        "server/package.json": [
+          "dev",
+          "start",
+          "test"
+        ]
+      },
+      "pass_no": 10
+    }
+  ],
+  "run_results": {
+    "node_available": false,
+    "node_error": "[Errno 2] No such file or directory: 'node'"
+  }
+}
